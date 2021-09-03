@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, I'm Lázaro <img height="40" src="https://i.ibb.co/261jzpf/d93bdb5a6cfa647336b1ed5c7bf6807bc3fa8cff-hq.gif"></h1>
+<h1 align="center">Welcome, I'm Lázaro <img height="40" src="https://i.ibb.co/261jzpf/d93bdb5a6cfa647336b1ed5c7bf6807bc3fa8cff-hq.gif"></h1>
 
 - 🔭 I’m currently working on my website **Universum** 
 
