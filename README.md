@@ -36,7 +36,8 @@
 </p>
 
 <p align="center"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazaroagomez&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="lazaroagomez" /></p></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazaroagomez&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="lazaroagomez" /></p>
+</p>
 
 
 ------
