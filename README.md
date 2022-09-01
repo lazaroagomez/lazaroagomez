@@ -13,7 +13,7 @@
 <a href="https://instagram.com/lazaroagomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lázaro" height="30" width="40" /></a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313qgfmcpzbiowsamghv2rfotnum&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<p align="center>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313qgfmcpzbiowsamghv2rfotnum&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)</p>
 
 <h3 align="center">Languages & Tools:</h3>
 
