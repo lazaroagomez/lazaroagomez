@@ -1,7 +1,19 @@
--  uses: Yakov5776/gh-apkmirror-dl@v1.2
-       with:
-        org: 'fidelity-investments'
-        repo: 'fidelity-investments'
-        version: '3.96'
-        bundle: false
-        filename: 'fidelity.apk'
+name: Download APK Workflow
+
+on:
+  workflow_dispatch:  # Permite ejecutar manualmente la acción desde GitHub
+
+jobs:
+  download-apk:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3  # Requiere que el repositorio esté disponible
+
+    - name: Download APK from APKMirror
+      uses: Yakov5776/gh-apkmirror-dl@v1.2
+      with:
+        package: "com.whatsapp"  # Nombre del paquete de la aplicación
+        version: "2.23.24.2"     # Versión específica de la APK
+        output-path: "./apk"     # Ruta donde se guardará la APK descargada
