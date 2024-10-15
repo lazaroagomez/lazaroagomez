@@ -1,0 +1,16 @@
+            - name: Download APK from APKMirror
+  # You may pin to the exact commit or the version.
+  # uses: Yakov5776/gh-apkmirror-dl@e091d9e7d653697069e255b651400f54a2ad35fd
+  uses: Yakov5776/gh-apkmirror-dl@v1.2
+  with:
+    # Organization name
+    org: 
+    # Repository name
+    repo: 
+    # Version of the app
+    version: # optional
+    # Use bundle
+    bundle: # optional, default is true
+    # The file name
+    filename: # optional
+          
